@@ -1,4 +1,5 @@
 pandas
 numpy
 Flask
+ipynb
 -e .
